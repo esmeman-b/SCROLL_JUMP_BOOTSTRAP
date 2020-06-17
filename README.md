@@ -1,50 +1,50 @@
 Armin Kiani - June 2020
 
 #Title
-A simple one page scroll jump web site made with Bootstrap and Javascript.
+> A simple one page scroll jump web site made with Bootstrap and Javascript.
 
 
 #Content
 
-  > index.html :
+  index.html :
 
-    HTML file --> the website content.
+    >HTML file --> the website content.
 
-  > package css :
+  package css :
 
-    Contains the css files used to stylish the html content.
+    >Contains the css files used to stylish the html content.
 
-  > package example_screenshots :
+  package example_screenshots :
 
-    Contains the screenshots of the website goal to design.
+    >Contains the screenshots of the website goal to design.
 
-  > package img :
+  package img :
 
-    Contains the pictures referenced by the html file to be displayed.
+    >Contains the pictures referenced by the html file to be displayed.
 
-  > package js :
+  package js :
 
-    Contains the scripts used by the html file to verify the email entered by
+    >Contains the scripts used by the html file to verify the email entered by
     the user, to manage the scrolling and the bootstrap's.
 
-  > package lib :
+  package lib :
 
-    The library used to display fontawesome icons on the website.
+    >The library used to display fontawesome icons on the website.
 
 #Test
 
-  > The most used browsers in Belgium :
+  The most used browsers in Belgium :
 
-    Chrome
+    >Chrome
       57.7%
 
-    Safari
+    >Safari
       22.89%
 
-    Firefox
+    >Firefox
       6.04%
 
-    IE
+    >IE
       2.02%
 
     As the result justifies, the majority of the test has been done on Chrome
@@ -67,14 +67,14 @@ A simple one page scroll jump web site made with Bootstrap and Javascript.
 
 #Upgrade ways
 
-    > Products and Medias
+    Products and Medias
 
-      From the header section, the display of products/medias section is unsatisfying
+      >From the header section, the display of products/medias section is unsatisfying
       as the second row of the elements is cut depending on the resolution of
       screen, the solution would be to adapt the height of the each element
       depending of the screen height using "media queries".
 
-    > text
+    Text
 
-      All the displayed text could adapt their size, depending of the screen size.
+      >All the displayed text could adapt their size, depending of the screen size.
       However, the result is already satisfying, even on mobile size.
